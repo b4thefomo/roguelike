@@ -1,0 +1,19 @@
+{
+  "name": "dark-totem",
+  "version": "1.0.0",
+  "description": "RogueLike Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gb4de"
+  },
+  "author": "Gbaderin Adewole",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "rot-js": "^2.2.0"
+  }
+}
